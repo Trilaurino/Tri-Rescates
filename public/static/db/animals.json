@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bbd"
+  },
+  "name": "Socrates",
+  "age": 3,
+  "sex": "Macho",
+  "health": "Perfecto estado de salud",
+  "description": "Juguetona, independiente, hambrienta",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino1.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bbe"
+  },
+  "name": "Mumis",
+  "age": 24,
+  "sex": "Hembra",
+  "health": "Perfecto estado de salud",
+  "description": "Cariñosa, pegota, compañera",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino2.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bbf"
+  },
+  "name": "Chonki",
+  "age": 96,
+  "sex": "Hembra",
+  "health": "Asma, artosis, displacia de cadera",
+  "description": "Independiente, buena, compañera",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino3.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc0"
+  },
+  "name": "Foster",
+  "age": 72,
+  "sex": "Macho",
+  "health": "VIF/VILEF positivo",
+  "description": "Cariñoso, bueno, jugueton",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino4.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc1"
+  },
+  "name": "Dali",
+  "age": 2,
+  "sex": "Macho",
+  "health": "VIF/VILEF positivo",
+  "description": "Cariñoso, bueno, jugueton",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino5.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc2"
+  },
+  "name": "Darwin",
+  "age": 6,
+  "sex": "Macho",
+  "health": "Perfecto estado de salud",
+  "description": "Jugueton, energico, saltarin",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino6.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc3"
+  },
+  "name": "Botas",
+  "age": 144,
+  "sex": "Macho",
+  "health": "VIF/VILEF positivo",
+  "description": "Cariñoso, bueno, jugueton",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino7.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc4"
+  },
+  "name": "Cakes",
+  "age": 60,
+  "sex": "Hembra",
+  "health": "Perfecto estado de salud",
+  "description": "Animada, curiosa, aventurera",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino8.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc5"
+  },
+  "name": "Shinji",
+  "age": 168,
+  "sex": "Macho",
+  "health": "Depresivo",
+  "description": "Reservado, inseguro, la familia lo abandono",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino9.png",
+  "reserved": {
+    "isReserved": false
+  }
+},{
+  "_id": {
+    "$oid": "611df43de0bf3f5879c36bc6"
+  },
+  "name": "Uzumaki",
+  "age": 72,
+  "sex": "Hembra",
+  "health": "Perfecto estado de salud",
+  "description": "Retorcida, asustadiza, le gusta dar giros",
+  "photoPath": "https://tri-rescates-imagenes.s3.us-east-2.amazonaws.com/pipino10.png",
+  "reserved": {
+    "isReserved": false
+  }
+}]

@@ -1,0 +1,49 @@
+{
+  "name": "tri-rescates",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "js-cookie": "^3.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.7",
+    "next": "^11.1.0",
+    "next-s3-upload": "^0.1.5",
+    "nookies": "^2.5.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "semantic-ui-react": "^2.0.3",
+    "sha1": "^1.1.1",
+    "uuid": "^8.3.2",
+    "validator": "^13.6.0",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

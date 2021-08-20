@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "611f26ead4fd910dc8040ae7"
+  },
+  "role": "admin",
+  "reservedAnimals": [],
+  "name": "Administrador",
+  "email": "admin@admin.com",
+  "password": "d5aa170e875913b89d169c57b96b452548fabfff",
+  "createdAt": {
+    "$date": "2021-08-20T03:52:10.222Z"
+  },
+  "updatedAt": {
+    "$date": "2021-08-20T03:52:10.222Z"
+  },
+  "__v": 0
+}]
